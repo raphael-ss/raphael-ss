@@ -1,10 +1,10 @@
 # Some info about me 🦖
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-ss&show_icons=true&theme=cobalt&include_all_commits=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-ss&theme=cobalt&layout=compact"/>
 
-- Hello! My name is **Raphael** and I'm a Computer Science student at Federal University of Espírito Santo, currently at the 2° semester of a 5-year degree.
+- Hello! My name is **Raphael** and I'm a Computer Science student at Federal University of Espírito Santo (UFES), currently at the 2° semester of a 5-year degree.
 - I seriously dig into Data Science, but I'm interested in computer science in general, in topics like AI, computer vision, web development and oher stuff.
-- I’m currently learning C (*not my choice*), Python, Pandas, NumPy, Django and OpenCV.
+- I’m currently learning C (*not my choice*) and Python, and also learning libraries like Pandas, NumPy, OpenCV. 
 - I'd like to be able to contribute and give back to the software community by making open-source products one day.
 - You could probably reach me by sending me an email at raphaelsoaresbrasil@hotmail.com.
 

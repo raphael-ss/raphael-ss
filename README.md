@@ -1,6 +1,6 @@
 # Some info about me 🦖
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-ss&theme=cobalt&layout=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-ss&theme=cobalt&layout=compact"/>
 
 - Hello! My name is **Raphael** and I'm a Computer Science student at Federal University of Espírito Santo (UFES), currently at the 2° semester of a 5-year degree.
 - I seriously dig into Data Science, but I'm interested in computer science in general, in topics like AI, computer vision, web development and other stuff.
